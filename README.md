@@ -1,13 +1,4 @@
 # DevCamp
-Contains content for the Azure EDU partner DevCamp world tour 2016-2017
-
-> The current status is:
->
->   **Worldwide deliveries in progress**
->
-> Next update scheduled for December 2016
-
-These labs and content will kickstart your Azure knowledge with a combination of lectures and hands on labs. It is intended to be delivered in a classroom environment but feel free to reuse this content.
 
 ---
 ## Module 0 - Introduction, roadmap and course overview ##
